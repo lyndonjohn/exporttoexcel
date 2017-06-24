@@ -2,7 +2,7 @@
 <html lang="en">
 	<head>
 		<meta charset="UTF-8">
-		<title>Export To Excel</title>
+		<title>Bootstrap Export To Excel</title>
 		<!-- The styles -->
 		<link href="css/bootstrap-united.min.css" rel="stylesheet">
 		<!-- Bootstrap 3.3.6 -->
